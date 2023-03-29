@@ -34,4 +34,4 @@ If you would like to contribute to this project, feel free to open an issue or s
 This application is licensed under the MIT license. See the LICENSE file for details.
 
 ## Contact
-If you have any questions or concerns about this application, please mail me at abhishek8598kumar@gmail.com
+If you have any questions or concerns about this application, please mail me on https://www.linkedin.com/in/abhishekkumarxd
